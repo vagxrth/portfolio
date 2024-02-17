@@ -28,3 +28,7 @@ npm run dev
 ```
 
 ## Video
+
+
+https://github.com/vagxrth/portfolio/assets/83217083/725d199b-e7a7-4ed3-9a91-3ee1b97ea89d
+
