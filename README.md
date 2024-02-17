@@ -1,8 +1,30 @@
-# React + Vite
+# Project Name
+Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+This space is designed to showcase my skills, experiences, and projects. Whether you're a potential employer, collaborator, or simply curious about what I do, I invite you to explore and get to know more about me and my work.
+ 
 
-Currently, two official plugins are available:
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- ThreeJS
+- TailwindCSS
+- Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Serves as a professional showcase of my skills, projects, and accomplishments.
+- Helps in establishing a strong online presence and personal brand.
+
+## Running the Project
+To run this project locally, follow these steps:
+
+To run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to the `.env.local` file or set them up on your hosting provider.
+
+```bash
+npm run dev
+```
+
+## Video
