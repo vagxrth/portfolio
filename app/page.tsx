@@ -18,9 +18,6 @@ export default function Home() {
         <Hero />
         <Grid />
         <Projects />
-        <Clients />
-        <Experience />
-        <Approach />
         <Footer />
       </div>
     </main>
