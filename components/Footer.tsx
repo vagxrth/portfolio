@@ -8,7 +8,8 @@ const Footer = () => {
     return (
         <footer className='w-full pb-10 mb-[100px] md:mb-10' id="contact">
             <div className='flex flex-col items-center'>
-                <h1 className='heading lg:max-w-[45vw]'>Questions, Projects <span className='text-purple'>or</span> Hiring?</h1>
+                <h1 className='heading lg:max-w-[45vw] mb-3'>Questions, Projects <span className='text-purple'>or</span> </h1>
+                <h1 className='heading lg:max-w-[45vw]'>Hiring?</h1>
                 <p className='text-white-200 md:mt-10 my-5 text-center'>hit that button, don&apos;t worry not gonna ghost you!</p>
                 <a href="https://www.linkedin.com/in/vagarthpandey/" target="_blank">
                     <MagicButton title="Let's get in touch" icon={<FaLocationArrow />} position='right' />
@@ -29,7 +30,6 @@ const Footer = () => {
                      </a>
                     ))}
                 </div>
-                {/* <Socials /> */}
             </div>
         </footer>
     )
