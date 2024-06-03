@@ -23,9 +23,9 @@ const Hero = () => {
                     <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80'>
                         My Portfolio
                     </h2>
-                    <TextGenerateEffect className='text-center text-[40px] md:text-5xl lg:text-6xl' words="Making my own portfolio for the better world"/>
+                    <TextGenerateEffect className='text-center text-[40px] md:text-5xl lg:text-6xl' words="Coding Concoctions and Caffeinated Creations: Brewing Brilliance in Bytes"/>
                     <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                        Hi, I&apos;m Vagarth, a Student from India.
+                        Take a plunge into the depths of my stellar portfolio!
                     </p>
                     <a href="https://github.com/vagxrth" target="_blank" rel="noopener noreferrer"><MagicButton title="My Coding Escapades" icon={<FaLocationArrow />} position='right'/></a>
                 </div>
