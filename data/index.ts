@@ -204,21 +204,25 @@ export const navItems = [
   export const socialMedia = [
     {
       id: 1,
+      name: "GitHub",
       img: "/github.svg",
       link: "https://github.com/vagxrth",
     },
     {
       id: 2,
+      name: "X",
       img: "/x.svg",
       link: "https://twitter.com/vagxrth",
     },
     {
       id: 3,
+      name: "LinkedIn",
       img: "/linkedin.svg",
       link: "https://www.linkedin.com/in/vagarthpandey/",
     },
     {
       id: 4,
+      name: "Leetcode",
       img: "/leetcode.svg",
       link: "https://leetcode.com/u/vagarth/",
     },
