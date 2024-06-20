@@ -72,6 +72,14 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      title: "Rhetro",
+      des: " A platform for engaging AI-driven podcast experiences, seamlessly incorporating OpenAI, Next.js, Shadcn, and leveraging Convex...",
+      img: "/rhetro.jpg",
+      iconLists: ["/next.svg", "/tailwind.svg", "/ts.svg", "/shadcn.svg", "/openai.svg", "/clerk.svg", "/convex.svg"],
+      link: "https://rhetro.vercel.app/",
+    },
+    {
+      id: 2,
       title: "Plyther",
       des: "A platform to facilitate Ethereum transactions, seamlessly incorporating React, Solidity, and leveraging Hardhat...",
       img: "/plyther.png",
@@ -79,7 +87,7 @@ export const navItems = [
       link: "https://plyther.vercel.app/",
     },
     {
-      id: 2,
+      id: 3,
       title: "Etherus",
       des: "An Ethereum based crowdfunding platform, integrating React, Solidity and Thirdweb for seamless functionality...",
       img: "/etherus.png",
@@ -87,7 +95,7 @@ export const navItems = [
       link: "https://etherus.vercel.app/",
     },
     {
-      id: 3,
+      id: 4,
       title: "iPhone 15 Pro Landing Page",
       des: "Recreated version of Apple's iPhone 15 Pro landing page, combining GSAP animations and Three.js 3D effects...",
       img: "/iPhone.png",
@@ -95,7 +103,7 @@ export const navItems = [
       link: "https://iphone15pro-vagarth.vercel.app/",
     },
     {
-      id: 4,
+      id: 5,
       title: "Nike Landing Page",
       des: "Recreated version of Nike's landing page, integrating React components and Tailwind for responsive design...",
       img: "/nike.png",
